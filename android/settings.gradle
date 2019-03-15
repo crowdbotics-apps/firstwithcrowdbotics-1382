@@ -1,0 +1,3 @@
+rootProject.name = 'firstwithcrowdbotics_1382'
+
+include ':app'
